@@ -5,16 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8f77027b-fe53-48d6-bdb7-72ed242d4a16" name="Changes" comment=" commit inicial">
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/biblioteca/loja/Calculavel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/biblioteca/loja/Livro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/biblioteca/loja/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/biblioteca/loja/ProdutoFisico.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/conversordemoedas/calculos/ConversorMoeda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/conversordemoedas/interfaces/ConversaoFinanceira.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/spotify/Audio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/spotify/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/alura/conversordemoedas/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/conversordemoedas/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/alura/conversordemoedas/calculos/ConversorMoeda.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/alura/conversordemoedas/interfaces/ConversaoFinanceira.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,7 +88,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706570519349</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary=" commit inicial">
+      <option name="closed" value="true" />
+      <created>1706746087722</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1706746087722</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
