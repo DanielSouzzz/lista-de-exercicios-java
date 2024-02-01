@@ -1,6 +1,7 @@
-package br.alura.conversordemoedas;
+package br.com.alura.conversordemoedas;
 
-import br.alura.conversordemoedas.calculos.ConversorMoeda;
+import br.com.alura.conversordemoedas.calculos.ConversorMoeda;
+
 import java.util.Scanner;
 
 public class Main {
@@ -8,11 +9,10 @@ public class Main {
         ConversorMoeda conversorDolar = new ConversorMoeda();
         Scanner input = new Scanner(System.in);
         System.out.println("Entre com o valor em dolar");
-        Double valor = input.nextDouble();
+        Double valorEmDolar = input.nextDouble();
         input.close();
 
-        conversorDolar.setValorEmDolar(valor);
-        double valorEmReais = conversorDolar.converterDolarParaReal();
+        double valorEmReais = conversorDolar.converterDolarParaReal(valorEmDolar);
         System.out.println("O valor convertido para reais é: " + valorEmReais);
     }
 }
