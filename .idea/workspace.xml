@@ -4,10 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8f77027b-fe53-48d6-bdb7-72ed242d4a16" name="Changes" comment=" commit inicial">
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/spotify/Audio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/spotify/Main.java" afterDir="false" />
+    <list default="true" id="8f77027b-fe53-48d6-bdb7-72ed242d4a16" name="Changes" comment="novo execercio">
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/spotify/modelos/Audio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/spotify/modelos/Musica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/spotify/modelos/Podcast.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/alura/spotify/Audio.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/alura/spotify/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/spotify/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,20 +37,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "inlay.hints"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;ChangesTree.GroupingKeys&quot;: [
-      &quot;directory&quot;
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "directory"
     ]
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -96,11 +100,20 @@
       <option name="project" value="LOCAL" />
       <updated>1706746087722</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="novo execercio">
+      <option name="closed" value="true" />
+      <created>1706831589148</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1706831589148</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value=" commit inicial" />
-    <option name="LAST_COMMIT_MESSAGE" value=" commit inicial" />
+    <MESSAGE value="novo execercio" />
+    <option name="LAST_COMMIT_MESSAGE" value="novo execercio" />
   </component>
 </project>
