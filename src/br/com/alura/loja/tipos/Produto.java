@@ -5,6 +5,11 @@ public class Produto {
     private double price;
     private int quantity;
 
+    public Produto(String brand, double price) {
+        this.brand = brand;
+        this.price = price;
+    }
+
     public String getBrand() {
         return brand;
     }
@@ -31,7 +36,7 @@ public class Produto {
 
     @Override
     public String toString() {
-        return "Produto\n{\n" +
+        return "\nProduto\n{\n" +
                 "marca='" + brand + '\'' +
                 ", \npreço=" + price +
                 ", \nquantidade=" + quantity +

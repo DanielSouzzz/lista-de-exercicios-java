@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8f77027b-fe53-48d6-bdb7-72ed242d4a16" name="Changes" comment="primeiro commit do exercicio loja.">
+    <list default="true" id="8f77027b-fe53-48d6-bdb7-72ed242d4a16" name="Changes" comment="Criei alista dos produtos no exc da loja.">
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/loja/tipos/ProdutoPerecivel.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/br/com/alura/loja/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/loja/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/br/com/alura/loja/tipos/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/loja/tipos/Produto.java" afterDir="false" />
@@ -121,7 +122,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707349634166</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Criei alista dos produtos no exc da loja.">
+      <option name="closed" value="true" />
+      <created>1707438576459</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1707438576459</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -129,6 +138,7 @@
     <MESSAGE value="novo execercio" />
     <MESSAGE value="adiciei metodos ao exercicio do spotify" />
     <MESSAGE value="primeiro commit do exercicio loja." />
-    <option name="LAST_COMMIT_MESSAGE" value="primeiro commit do exercicio loja." />
+    <MESSAGE value="Criei alista dos produtos no exc da loja." />
+    <option name="LAST_COMMIT_MESSAGE" value="Criei alista dos produtos no exc da loja." />
   </component>
 </project>
