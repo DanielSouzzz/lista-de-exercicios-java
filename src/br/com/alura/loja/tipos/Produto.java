@@ -28,4 +28,13 @@ public class Produto {
     public void setQuantity(int quantity) {
         this.quantity = quantity;
     }
+
+    @Override
+    public String toString() {
+        return "Produto\n{\n" +
+                "marca='" + brand + '\'' +
+                ", \npreço=" + price +
+                ", \nquantidade=" + quantity +
+                "\n}";
+    }
 }
