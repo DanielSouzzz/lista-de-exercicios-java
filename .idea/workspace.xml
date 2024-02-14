@@ -4,11 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8f77027b-fe53-48d6-bdb7-72ed242d4a16" name="Changes" comment="Criei alista dos produtos no exc da loja.">
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/loja/tipos/ProdutoPerecivel.java" afterDir="false" />
+    <list default="true" id="8f77027b-fe53-48d6-bdb7-72ed242d4a16" name="Changes" comment="finalizei o exec da loja utilizando método construtores e arrayslist.">
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/contaBancaria/BankAccounts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/contaBancaria/Conta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/contaBancaria/CurrentAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/contaBancaria/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/contaBancaria/SavingsAccount.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/alura/loja/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/loja/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/alura/loja/tipos/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/loja/tipos/Produto.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -130,7 +132,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707438576459</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="finalizei o exec da loja utilizando método construtores e arrayslist.">
+      <option name="closed" value="true" />
+      <created>1707440377053</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1707440377053</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -139,6 +149,7 @@
     <MESSAGE value="adiciei metodos ao exercicio do spotify" />
     <MESSAGE value="primeiro commit do exercicio loja." />
     <MESSAGE value="Criei alista dos produtos no exc da loja." />
-    <option name="LAST_COMMIT_MESSAGE" value="Criei alista dos produtos no exc da loja." />
+    <MESSAGE value="finalizei o exec da loja utilizando método construtores e arrayslist." />
+    <option name="LAST_COMMIT_MESSAGE" value="finalizei o exec da loja utilizando método construtores e arrayslist." />
   </component>
 </project>
