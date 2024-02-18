@@ -17,6 +17,7 @@ public class Main {
     saving.setClientName("Carlonis Souza");
     saving.setTypeAccount(false);
     saving.setBank("Santander");
+        System.out.println(saving);
 
 
     }

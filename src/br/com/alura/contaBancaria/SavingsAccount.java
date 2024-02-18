@@ -12,7 +12,7 @@ public class SavingsAccount extends AccountBank implements Conta{
         return "{" +
                 "\"bank\": \"" + this.getBank() + "\",\n" +
                 "\"clientName\": \"" + this.getClientName() + "\",\n" +
-                //"\"typeAccount\": \"" + (this.gettypeAccount ? "current" : "savings") + "\"," +
+                "\"typeAccount\": \"" + (this.isTypeAccount() ? "current" : "savings") + "\",\n" +
                 "\"accountNumber\": \"" + this.getAccountNumber() + "\",\n" +
                 "\"accountBalance\": " + this.getAccountBalance() +
                 "}";
