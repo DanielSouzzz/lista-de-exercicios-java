@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8f77027b-fe53-48d6-bdb7-72ed242d4a16" name="Changes" comment="implementei as classes e instanciei os objetos.">
+    <list default="true" id="8f77027b-fe53-48d6-bdb7-72ed242d4a16" name="Changes" comment="correções de erro no exercício de conta bancária.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/alura/contaBancaria/CurrentAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/contaBancaria/CurrentAccount.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/br/com/alura/contaBancaria/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/contaBancaria/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/alura/contaBancaria/SavingsAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/contaBancaria/SavingsAccount.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -157,7 +155,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708049137355</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="correções de erro no exercício de conta bancária.">
+      <option name="closed" value="true" />
+      <created>1708292686501</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1708292686501</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -169,6 +175,7 @@
     <MESSAGE value="finalizei o exec da loja utilizando método construtores e arrayslist." />
     <MESSAGE value="initial commit do novo exerc contaBancaria." />
     <MESSAGE value="implementei as classes e instanciei os objetos." />
-    <option name="LAST_COMMIT_MESSAGE" value="implementei as classes e instanciei os objetos." />
+    <MESSAGE value="correções de erro no exercício de conta bancária." />
+    <option name="LAST_COMMIT_MESSAGE" value="correções de erro no exercício de conta bancária." />
   </component>
 </project>
