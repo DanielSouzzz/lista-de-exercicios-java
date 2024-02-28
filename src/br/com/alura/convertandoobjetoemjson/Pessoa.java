@@ -1,4 +1,4 @@
 package br.com.alura.convertandoobjetoemjson;
 
-public record Pessoa(String nome, String idade, String cidade) {
+public record Pessoa(String nome, String idade, String cidade, String id) {
 }
