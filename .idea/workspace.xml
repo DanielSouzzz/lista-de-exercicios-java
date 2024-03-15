@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8f77027b-fe53-48d6-bdb7-72ed242d4a16" name="Changes" comment="Correções">
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/github/Main.java" afterDir="false" />
+    <list default="true" id="8f77027b-fe53-48d6-bdb7-72ed242d4a16" name="Changes" comment="primeiro commit do exercicio de consumir api do github.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/alura/github/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/github/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -194,7 +194,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709080452338</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="primeiro commit do exercicio de consumir api do github.">
+      <option name="closed" value="true" />
+      <created>1710291558053</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1710291558053</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -210,6 +218,7 @@
     <MESSAGE value="implementei a lógica com foreach no exercicio de conta bancária." />
     <MESSAGE value="Converti um json em objeto no exercicio." />
     <MESSAGE value="Correções" />
-    <option name="LAST_COMMIT_MESSAGE" value="Correções" />
+    <MESSAGE value="primeiro commit do exercicio de consumir api do github." />
+    <option name="LAST_COMMIT_MESSAGE" value="primeiro commit do exercicio de consumir api do github." />
   </component>
 </project>
