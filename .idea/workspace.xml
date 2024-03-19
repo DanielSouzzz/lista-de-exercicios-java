@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8f77027b-fe53-48d6-bdb7-72ed242d4a16" name="Changes" comment="primeiro commit do exercicio de consumir api do github.">
+    <list default="true" id="8f77027b-fe53-48d6-bdb7-72ed242d4a16" name="Changes" comment="Construi a requisição para buscar usuários do github usando sua api pública.">
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/github/ErroConsultaGitHubException.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/br/com/alura/github/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/github/Main.java" afterDir="false" />
     </list>
@@ -27,6 +28,9 @@
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
@@ -58,6 +62,26 @@
     ]
   }
 }</component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.alura.github.Main" />
+      <module name="lista-de-exercicios-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.alura.github.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -202,7 +226,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710291558053</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Construi a requisição para buscar usuários do github usando sua api pública.">
+      <option name="closed" value="true" />
+      <created>1710461523750</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1710461523750</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -219,6 +251,7 @@
     <MESSAGE value="Converti um json em objeto no exercicio." />
     <MESSAGE value="Correções" />
     <MESSAGE value="primeiro commit do exercicio de consumir api do github." />
-    <option name="LAST_COMMIT_MESSAGE" value="primeiro commit do exercicio de consumir api do github." />
+    <MESSAGE value="Construi a requisição para buscar usuários do github usando sua api pública." />
+    <option name="LAST_COMMIT_MESSAGE" value="Construi a requisição para buscar usuários do github usando sua api pública." />
   </component>
 </project>
