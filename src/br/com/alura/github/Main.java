@@ -11,9 +11,9 @@ public class Main {
     public static void main(String[] args)  throws IOException, InterruptedException {
         Scanner input = new Scanner(System.in);
         System.out.println("Digite o nome do usuário: ");
-        var busca = input.next();
+        var username = input.next();
 
-        String endpoint = "https://api.github.com/users/" + busca;
+        String endpoint = "https://api.github.com/users/" + username;
         try {
             HttpClient client = HttpClient.newHttpClient();
             HttpRequest request = HttpRequest.newBuilder()

@@ -1,0 +1,4 @@
+Este é um exemplo de texto que será lido pelo código Java acima.
+Você pode escrever qualquer coisa aqui, desde frases simples até parágrafos inteiros.
+Certifique-se de salvar o arquivo com o nome "arquivo.txt" e colocá-lo no mesmo diretório do seu código Java.
+Ao executar o código acima, ele lerá o conteúdo deste arquivo linha por linha e o imprimirá no console.
